@@ -3,7 +3,7 @@
 Quality-Lossless
 Release-2023
 File Size- MB
-Channels:          1
+Name:              cpa
 Bits per sample:   6
 Codec:             Tex
 
@@ -11,8 +11,9 @@ Codec:             Tex
 
 
 
-Date: 2022-08-29
+Date:  2022-08-29
 Witer: LcdSe7en
+Name:  CPA
 
 Account-list:
 01 accounting                               (会计)
